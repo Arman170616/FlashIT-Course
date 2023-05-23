@@ -14,9 +14,9 @@
 
 password = ""
 
-while password != "python123":
+while password != "python":
     password = input("Enter password: ")
-    if password == "python123":
+    if password == "python":
         print("You are logged in")
     else:
         print("Sorry, try again")
