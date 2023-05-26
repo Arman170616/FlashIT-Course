@@ -22,5 +22,11 @@ c = " Hello World! "
 
 
 z = 'hell'
-print(z.zfill(15))
+# print(z.zfill(15))
 
+#concatenation string
+
+a = "Hello"
+b = "World"
+c = a + "  " + b
+print(c)
